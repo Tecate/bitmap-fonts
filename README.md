@@ -3,8 +3,6 @@ A collection of monospaced bitmap fonts for X11, good for terminal use.
 These fonts were not created by me, I simply collected them. Some of these fonts may be out of date.
 
 ## Installation
-Copy files to /usr/share/fonts/bitmap as root
-
 ```
 sudo cp -avr bitmap/ /usr/share/fonts
 cd /usr/share/fonts/bitmap
