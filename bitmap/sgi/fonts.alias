@@ -1,0 +1,69 @@
+--iris-medium-r-normal--10-100-72-72-m-60--ascii --iris-medium-r-normal--10-100-72-72-m-60-iso8859-1
+--iris-medium-r-normal--12-120-72-72-m-80--ascii --iris-medium-r-normal--12-120-72-72-m-80-iso8859-1
+--iris-medium-r-normal--13-130-72-72-m-90--ascii --iris-medium-r-normal--13-130-72-72-m-90-iso8859-1
+
+
+-sgi-screen-bold-r-normal--10-100-72-72-m-70--ascii -sgi-screen-bold-r-normal--10-100-72-72-m-70-iso8859-1
+-sgi-screen-bold-r-normal--11-110-72-72-m-80--ascii -sgi-screen-bold-r-normal--11-110-72-72-m-80-iso8859-1
+-sgi-screen-bold-r-normal--12-120-72-72-m-80--ascii -sgi-screen-bold-r-normal--12-120-72-72-m-80-iso8859-1
+-sgi-screen-bold-r-normal--13-130-72-72-m-80--ascii -sgi-screen-bold-r-normal--13-130-72-72-m-80-iso8859-1
+-sgi-screen-bold-r-normal--14-140-72-72-m-80--ascii -sgi-screen-bold-r-normal--14-140-72-72-m-80-iso8859-1
+-sgi-screen-bold-r-normal--15-150-72-72-m-90--ascii -sgi-screen-bold-r-normal--15-150-72-72-m-90-iso8859-1
+-sgi-screen-bold-r-normal--16-160-72-72-m-90--ascii -sgi-screen-bold-r-normal--16-160-72-72-m-90-iso8859-1
+-sgi-screen-bold-r-normal--18-180-72-72-m-100--ascii -sgi-screen-bold-r-normal--18-180-72-72-m-100-iso8859-1
+-sgi-screen-bold-r-normal--7-70-72-72-m-70--ascii -sgi-screen-bold-r-normal--7-70-72-72-m-70-iso8859-1
+-sgi-screen-bold-r-normal--8-80-72-72-m-70--ascii -sgi-screen-bold-r-normal--8-80-72-72-m-70-iso8859-1
+-sgi-screen-bold-r-normal--9-90-72-72-m-70--ascii -sgi-screen-bold-r-normal--9-90-72-72-m-70-iso8859-1
+-sgi-screen-medium-r-normal--10-100-72-72-m-60--ascii -sgi-screen-medium-r-normal--10-100-72-72-m-60-iso8859-1
+-sgi-screen-medium-r-normal--11-110-72-72-m-70--ascii -sgi-screen-medium-r-normal--11-110-72-72-m-70-iso8859-1
+-sgi-screen-medium-r-normal--12-120-72-72-m-70--ascii -sgi-screen-medium-r-normal--12-120-72-72-m-70-iso8859-1
+-sgi-screen-medium-r-normal--13-130-72-72-m-70--ascii -sgi-screen-medium-r-normal--13-130-72-72-m-70-iso8859-1
+-sgi-screen-medium-r-normal--14-140-72-72-m-70--ascii -sgi-screen-medium-r-normal--14-140-72-72-m-70-iso8859-1
+-sgi-screen-medium-r-normal--15-150-72-72-m-80--ascii -sgi-screen-medium-r-normal--15-150-72-72-m-80-iso8859-1
+-sgi-screen-medium-r-normal--16-160-72-72-m-80--ascii -sgi-screen-medium-r-normal--16-160-72-72-m-80-iso8859-1
+-sgi-screen-medium-r-normal--18-180-72-72-m-90--ascii -sgi-screen-medium-r-normal--18-180-72-72-m-90-iso8859-1
+-sgi-screen-medium-r-normal--7-70-72-72-m-60--ascii -sgi-screen-medium-r-normal--7-70-72-72-m-60-iso8859-1
+-sgi-screen-medium-r-normal--8-80-72-72-m-60--ascii -sgi-screen-medium-r-normal--8-80-72-72-m-60-iso8859-1
+-sgi-screen-medium-r-normal--9-90-72-72-m-60--ascii -sgi-screen-medium-r-normal--9-90-72-72-m-60-iso8859-1
+
+
+haeberli12 -sgi-haeberli-medium-r-normal--12-120-72-72-p-63-iso8859-1
+haeberli24 -sgi-haeberli-medium-r-normal--24-240-72-72-p-126-iso8859-1
+haeberli36 -sgi-haeberli-medium-r-normal--36-360-72-72-p-190-iso8859-1
+haebfix15  -sgi-haebfix-medium-r-normal--15-150-72-72-m-90-iso8859-1
+
+international15 -*-international-medium-r-normal--*-150-*-*-m-*-iso8859-1
+
+iris10 -*-iris-medium-r-normal--*-100-*-*-m-*-iso8859-1
+iris12 -*-iris-medium-r-normal--*-120-*-*-m-*-iso8859-1
+iris13 -*-iris-medium-r-normal--*-130-*-*-m-*-iso8859-1
+
+rock12     -sgi-rock-medium-r-normal--12-120-72-72-p-66-iso8859-1
+rock18     -sgi-rock-medium-r-normal--18-180-72-72-p-99-iso8859-1
+rock24     -sgi-rock-medium-r-normal--24-240-72-72-p-133-iso8859-1
+rock36     -sgi-rock-medium-r-normal--36-360-72-72-p-198-iso8859-1
+
+screen-bold10 -*-screen-bold-r-normal--*-100-*-*-m-*-iso8859-1
+screen-bold11 -*-screen-bold-r-normal--*-110-*-*-m-*-iso8859-1
+screen-bold12 -*-screen-bold-r-normal--*-120-*-*-m-*-iso8859-1
+screen-bold13 -*-screen-bold-r-normal--*-130-*-*-m-*-iso8859-1
+screen-bold14 -*-screen-bold-r-normal--*-140-*-*-m-*-iso8859-1
+screen-bold15 -*-screen-bold-r-normal--*-150-*-*-m-*-iso8859-1
+screen-bold16 -*-screen-bold-r-normal--*-160-*-*-m-*-iso8859-1
+screen-bold18 -*-screen-bold-r-normal--*-180-*-*-m-*-iso8859-1
+screen-bold7 -*-screen-bold-r-normal--*-70-*-*-m-*-iso8859-1
+screen-bold8 -*-screen-bold-r-normal--*-80-*-*-m-*-iso8859-1
+screen-bold9 -*-screen-bold-r-normal--*-90-*-*-m-*-iso8859-1
+screen10 -*-screen-medium-r-normal--*-100-*-*-m-*-iso8859-1
+screen11 -*-screen-medium-r-normal--*-110-*-*-m-*-iso8859-1
+screen12 -*-screen-medium-r-normal--*-120-*-*-m-*-iso8859-1
+screen13 -*-screen-medium-r-normal--*-130-*-*-m-*-iso8859-1
+screen14 -*-screen-medium-r-normal--*-140-*-*-m-*-iso8859-1
+screen15 -*-screen-medium-r-normal--*-150-*-*-m-*-iso8859-1
+screen16 -*-screen-medium-r-normal--*-160-*-*-m-*-iso8859-1
+screen18 -*-screen-medium-r-normal--*-180-*-*-m-*-iso8859-1
+screen7 -*-screen-medium-r-normal--*-70-*-*-m-*-iso8859-1
+screen8 -*-screen-medium-r-normal--*-80-*-*-m-*-iso8859-1
+screen9 -*-screen-medium-r-normal--*-90-*-*-m-*-iso8859-1
+
+type13 -*-type-medium-r-normal--*-130-*-*-m-*-iso8859-1

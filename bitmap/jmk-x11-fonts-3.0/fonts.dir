@@ -1,0 +1,139 @@
+138
+modd-ascii-06x11-bold.bdf -jmk-modd-bold-r-normal--11-100-75-75-c-60-us-ascii
+modd-ascii-06x11.bdf -jmk-modd-medium-r-normal--11-100-75-75-c-60-us-ascii
+modd-ascii-06x13-bold.bdf -jmk-modd-bold-r-semicondensed--13-120-75-75-c-60-us-ascii
+modd-ascii-06x13.bdf -jmk-modd-medium-r-semicondensed--13-120-75-75-c-60-us-ascii
+modd-iso8859-1-06x11-bold.bdf -jmk-modd-bold-r-normal--11-100-75-75-c-60-iso8859-1
+modd-iso8859-1-part-06x11.bdf -jmk-modd-medium-r-normal--11-100-75-75-c-60-iso8859-1
+modd-iso8859-1-part-06x13-bold.bdf -jmk-modd-bold-r-semicondensed--13-120-75-75-c-60-iso8859-1
+modd-iso8859-1-part-06x13.bdf -jmk-modd-medium-r-semicondensed--13-120-75-75-c-60-iso8859-1
+neep-alt-iso8859-1-05x10.bdf -jmk-neep alt-medium-r-normal--10-80-75-75-c-50-iso8859-1
+neep-alt-iso8859-1-05x11-bold.bdf -jmk-neep alt-bold-r-semicondensed--11-100-75-75-c-50-iso8859-1
+neep-alt-iso8859-1-05x11.bdf -jmk-neep alt-medium-r-semicondensed--11-100-75-75-c-50-iso8859-1
+neep-alt-iso8859-1-06x11-bold.bdf -jmk-neep alt-bold-r-normal--11-100-75-75-c-60-iso8859-1
+neep-alt-iso8859-1-06x11.bdf -jmk-neep alt-medium-r-normal--11-100-75-75-c-60-iso8859-1
+neep-alt-iso8859-1-06x13-bold.bdf -jmk-neep alt-bold-r-semicondensed--13-120-75-75-c-60-iso8859-1
+neep-alt-iso8859-1-06x13.bdf -jmk-neep alt-medium-r-semicondensed--13-120-75-75-c-60-iso8859-1
+neep-alt-iso8859-1-08x15-bold.bdf -jmk-neep alt-bold-r-normal--15-140-75-75-c-80-iso8859-1
+neep-alt-iso8859-1-08x15.bdf -jmk-neep alt-medium-r-normal--15-140-75-75-c-80-iso8859-1
+neep-alt-iso8859-1-10x20-bold.bdf -jmk-neep alt-bold-r-normal--20-180-75-75-c-100-iso8859-1
+neep-alt-iso8859-1-10x20.bdf -jmk-neep alt-medium-r-normal--20-180-75-75-c-100-iso8859-1
+neep-alt-iso8859-1-12x24-bold.bdf -jmk-neep alt-bold-r-normal--24-240-75-75-c-120-iso8859-1
+neep-alt-iso8859-1-12x24.bdf -jmk-neep alt-medium-r-normal--24-240-75-75-c-120-iso8859-1
+neep-alt-iso8859-15-05x10.bdf -jmk-neep alt-medium-r-normal--10-80-75-75-c-50-iso8859-15
+neep-alt-iso8859-15-05x11-bold.bdf -jmk-neep alt-bold-r-semicondensed--11-100-75-75-c-50-iso8859-15
+neep-alt-iso8859-15-05x11.bdf -jmk-neep alt-medium-r-semicondensed--11-100-75-75-c-50-iso8859-15
+neep-alt-iso8859-15-06x11-bold.bdf -jmk-neep alt-bold-r-normal--11-100-75-75-c-60-iso8859-15
+neep-alt-iso8859-15-06x11.bdf -jmk-neep alt-medium-r-normal--11-100-75-75-c-60-iso8859-15
+neep-alt-iso8859-15-06x13-bold.bdf -jmk-neep alt-bold-r-semicondensed--13-120-75-75-c-60-iso8859-15
+neep-alt-iso8859-15-06x13.bdf -jmk-neep alt-medium-r-semicondensed--13-120-75-75-c-60-iso8859-15
+neep-alt-iso8859-15-08x15-bold.bdf -jmk-neep alt-bold-r-normal--15-140-75-75-c-80-iso8859-15
+neep-alt-iso8859-15-08x15.bdf -jmk-neep alt-medium-r-normal--15-140-75-75-c-80-iso8859-15
+neep-alt-iso8859-15-10x20-bold.bdf -jmk-neep alt-bold-r-normal--20-180-75-75-c-100-iso8859-15
+neep-alt-iso8859-15-10x20.bdf -jmk-neep alt-medium-r-normal--20-180-75-75-c-100-iso8859-15
+neep-alt-iso8859-15-12x24-bold.bdf -jmk-neep alt-bold-r-normal--24-240-75-75-c-120-iso8859-15
+neep-alt-iso8859-15-12x24.bdf -jmk-neep alt-medium-r-normal--24-240-75-75-c-120-iso8859-15
+neep-alt-iso8859-2-05x10.bdf -jmk-neep alt-medium-r-normal--10-80-75-75-c-50-iso8859-2
+neep-alt-iso8859-2-05x11-bold.bdf -jmk-neep alt-bold-r-semicondensed--11-100-75-75-c-50-iso8859-2
+neep-alt-iso8859-2-05x11.bdf -jmk-neep alt-medium-r-semicondensed--11-100-75-75-c-50-iso8859-2
+neep-alt-iso8859-2-06x11-bold.bdf -jmk-neep alt-bold-r-normal--11-100-75-75-c-60-iso8859-2
+neep-alt-iso8859-2-06x11.bdf -jmk-neep alt-medium-r-normal--11-100-75-75-c-60-iso8859-2
+neep-alt-iso8859-2-06x13-bold.bdf -jmk-neep alt-bold-r-semicondensed--13-120-75-75-c-60-iso8859-2
+neep-alt-iso8859-2-06x13.bdf -jmk-neep alt-medium-r-semicondensed--13-120-75-75-c-60-iso8859-2
+neep-alt-iso8859-2-08x15-bold.bdf -jmk-neep alt-bold-r-normal--15-140-75-75-c-80-iso8859-2
+neep-alt-iso8859-2-08x15.bdf -jmk-neep alt-medium-r-normal--15-140-75-75-c-80-iso8859-2
+neep-alt-iso8859-2-10x20-bold.bdf -jmk-neep alt-bold-r-normal--20-180-75-75-c-100-iso8859-2
+neep-alt-iso8859-2-10x20.bdf -jmk-neep alt-medium-r-normal--20-180-75-75-c-100-iso8859-2
+neep-alt-iso8859-2-12x24-bold.bdf -jmk-neep alt-bold-r-normal--24-240-75-75-c-120-iso8859-2
+neep-alt-iso8859-2-12x24.bdf -jmk-neep alt-medium-r-normal--24-240-75-75-c-120-iso8859-2
+neep-alt-iso8859-9-05x10.bdf -jmk-neep alt-medium-r-normal--10-80-75-75-c-50-iso8859-9
+neep-alt-iso8859-9-05x11-bold.bdf -jmk-neep alt-bold-r-semicondensed--11-100-75-75-c-50-iso8859-9
+neep-alt-iso8859-9-05x11.bdf -jmk-neep alt-medium-r-semicondensed--11-100-75-75-c-50-iso8859-9
+neep-alt-iso8859-9-06x11-bold.bdf -jmk-neep alt-bold-r-normal--11-100-75-75-c-60-iso8859-9
+neep-alt-iso8859-9-06x11.bdf -jmk-neep alt-medium-r-normal--11-100-75-75-c-60-iso8859-9
+neep-alt-iso8859-9-06x13-bold.bdf -jmk-neep alt-bold-r-semicondensed--13-120-75-75-c-60-iso8859-9
+neep-alt-iso8859-9-06x13.bdf -jmk-neep alt-medium-r-semicondensed--13-120-75-75-c-60-iso8859-9
+neep-alt-iso8859-9-08x15-bold.bdf -jmk-neep alt-bold-r-normal--15-140-75-75-c-80-iso8859-9
+neep-alt-iso8859-9-08x15.bdf -jmk-neep alt-medium-r-normal--15-140-75-75-c-80-iso8859-9
+neep-alt-iso8859-9-10x20-bold.bdf -jmk-neep alt-bold-r-normal--20-180-75-75-c-100-iso8859-9
+neep-alt-iso8859-9-10x20.bdf -jmk-neep alt-medium-r-normal--20-180-75-75-c-100-iso8859-9
+neep-alt-iso8859-9-12x24-bold.bdf -jmk-neep alt-bold-r-normal--24-240-75-75-c-120-iso8859-9
+neep-alt-iso8859-9-12x24.bdf -jmk-neep alt-medium-r-normal--24-240-75-75-c-120-iso8859-9
+neep-ampersand-10x20.bdf -jmk-neep-medium-r-normal--20-180-75-75-c-100-us-ascii
+neep-ampersand-alt-05x10.bdf -jmk-neep-medium-r-normal-altglyph-10-80-75-75-c-50-us-ascii
+neep-ampersand-alt-05x11-bold.bdf -jmk-neep-bold-r-semicondensed-altglyph-11-100-75-75-c-50-us-ascii
+neep-ampersand-alt-05x11.bdf -jmk-neep-medium-r-semicondensed-altglyph-11-100-75-75-c-50-us-ascii
+neep-ampersand-alt-06x11-bold.bdf -jmk-neep-bold-r-normal-altglyph-11-100-75-75-c-60-us-ascii
+neep-ampersand-alt-06x11.bdf -jmk-neep-medium-r-normal-altglyph-11-100-75-75-c-60-us-ascii
+neep-ampersand-alt-06x13-bold.bdf -jmk-neep-bold-r-semicondensed-altglyph-13-120-75-75-c-60-us-ascii
+neep-ampersand-alt-06x13.bdf -jmk-neep-medium-r-semicondensed-altglyph-13-120-75-75-c-60-us-ascii
+neep-ampersand-alt-08x15-bold.bdf -jmk-neep-bold-r-normal-altglyph-15-140-75-75-c-80-us-ascii
+neep-ampersand-alt-08x15.bdf -jmk-neep-medium-r-normal-altglyph-15-140-75-75-c-80-us-ascii
+neep-ampersand-alt-10x20-bold.bdf -jmk-neep-bold-r-normal-altglyph-20-180-75-75-c-100-us-ascii
+neep-ampersand-alt-10x20.bdf -jmk-neep-medium-r-normal-altglyph-20-180-75-75-c-100-us-ascii
+neep-ampersand-alt-12x24-bold.bdf -jmk-neep-bold-r-normal-altglyph-24-240-75-75-c-120-us-ascii
+neep-ampersand-alt-12x24.bdf -jmk-neep-medium-r-normal-altglyph-24-240-75-75-c-120-us-ascii
+neep-iso8859-1-05x11.bdf -jmk-neep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-1
+neep-iso8859-1-06x11-bold.bdf -jmk-neep-bold-r-normal--11-100-75-75-c-60-iso8859-1
+neep-iso8859-1-06x13-bold.bdf -jmk-neep-bold-r-semicondensed--13-120-75-75-c-60-iso8859-1
+neep-iso8859-1-06x13.bdf -jmk-neep-medium-r-semicondensed--13-120-75-75-c-60-iso8859-1
+neep-iso8859-1-08x15-bold.bdf -jmk-neep-bold-r-normal--15-140-75-75-c-80-iso8859-1
+neep-iso8859-1-08x15.bdf -jmk-neep-medium-r-normal--15-140-75-75-c-80-iso8859-1
+neep-iso8859-1-10x20-bold.bdf -jmk-neep-bold-r-normal--20-180-75-75-c-100-iso8859-1
+neep-iso8859-1-12x24-bold.bdf -jmk-neep-bold-r-normal--24-240-75-75-c-120-iso8859-1
+neep-iso8859-1-12x24.bdf -jmk-neep-medium-r-normal--24-240-75-75-c-120-iso8859-1
+neep-iso8859-1-part-05x10.bdf -jmk-neep-medium-r-normal--10-80-75-75-c-50-iso8859-1
+neep-iso8859-1-part-05x11-bold.bdf -jmk-neep-bold-r-semicondensed--11-100-75-75-c-50-iso8859-1
+neep-iso8859-1-part-06x11.bdf -jmk-neep-medium-r-normal--11-100-75-75-c-60-iso8859-1
+neep-iso8859-1-part-10x20.bdf -jmk-neep-medium-r-normal--20-180-75-75-c-100-iso8859-1
+neep-iso8859-15-05x10.bdf -jmk-neep-medium-r-normal--10-80-75-75-c-50-iso8859-15
+neep-iso8859-15-05x11.bdf -jmk-neep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-15
+neep-iso8859-15-06x11.bdf -jmk-neep-medium-r-normal--11-100-75-75-c-60-iso8859-15
+neep-iso8859-15-06x13.bdf -jmk-neep-medium-r-semicondensed--13-120-75-75-c-60-iso8859-15
+neep-iso8859-15-10x20-bold.bdf -jmk-neep-bold-r-normal--20-180-75-75-c-100-iso8859-15
+neep-iso8859-15-10x20.bdf -jmk-neep-medium-r-normal--20-180-75-75-c-100-iso8859-15
+neep-iso8859-15-12x24-bold.bdf -jmk-neep-bold-r-normal--24-240-75-75-c-120-iso8859-15
+neep-iso8859-15-12x24.bdf -jmk-neep-medium-r-normal--24-240-75-75-c-120-iso8859-15
+neep-iso8859-15-part-05x11-bold.bdf -jmk-neep-bold-r-semicondensed--11-100-75-75-c-50-iso8859-15
+neep-iso8859-15-part-06x11-bold.bdf -jmk-neep-bold-r-normal--11-100-75-75-c-60-iso8859-15
+neep-iso8859-15-part-06x13-bold.bdf -jmk-neep-bold-r-semicondensed--13-120-75-75-c-60-iso8859-15
+neep-iso8859-15-part-08x15-bold.bdf -jmk-neep-bold-r-normal--15-140-75-75-c-80-iso8859-15
+neep-iso8859-15-part-08x15.bdf -jmk-neep-medium-r-normal--15-140-75-75-c-80-iso8859-15
+neep-iso8859-2-05x11-bold.bdf -jmk-neep-bold-r-semicondensed--11-100-75-75-c-50-iso8859-2
+neep-iso8859-2-06x11-bold.bdf -jmk-neep-bold-r-normal--11-100-75-75-c-60-iso8859-2
+neep-iso8859-2-06x11.bdf -jmk-neep-medium-r-normal--11-100-75-75-c-60-iso8859-2
+neep-iso8859-2-08x15-bold.bdf -jmk-neep-bold-r-normal--15-140-75-75-c-80-iso8859-2
+neep-iso8859-2-08x15.bdf -jmk-neep-medium-r-normal--15-140-75-75-c-80-iso8859-2
+neep-iso8859-2-10x20.bdf -jmk-neep-medium-r-normal--20-180-75-75-c-100-iso8859-2
+neep-iso8859-2-12x24-bold.bdf -jmk-neep-bold-r-normal--24-240-75-75-c-120-iso8859-2
+neep-iso8859-2-part-05x10.bdf -jmk-neep-medium-r-normal--10-80-75-75-c-50-iso8859-2
+neep-iso8859-2-part-05x11.bdf -jmk-neep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-2
+neep-iso8859-2-part-06x13-bold.bdf -jmk-neep-bold-r-semicondensed--13-120-75-75-c-60-iso8859-2
+neep-iso8859-2-part-06x13.bdf -jmk-neep-medium-r-semicondensed--13-120-75-75-c-60-iso8859-2
+neep-iso8859-2-part-10x20-bold.bdf -jmk-neep-bold-r-normal--20-180-75-75-c-100-iso8859-2
+neep-iso8859-2-part-12x24.bdf -jmk-neep-medium-r-normal--24-240-75-75-c-120-iso8859-2
+neep-iso8859-9-05x10.bdf -jmk-neep-medium-r-normal--10-80-75-75-c-50-iso8859-9
+neep-iso8859-9-05x11.bdf -jmk-neep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-9
+neep-iso8859-9-06x11-bold.bdf -jmk-neep-bold-r-normal--11-100-75-75-c-60-iso8859-9
+neep-iso8859-9-06x11.bdf -jmk-neep-medium-r-normal--11-100-75-75-c-60-iso8859-9
+neep-iso8859-9-08x15.bdf -jmk-neep-medium-r-normal--15-140-75-75-c-80-iso8859-9
+neep-iso8859-9-12x24-bold.bdf -jmk-neep-bold-r-normal--24-240-75-75-c-120-iso8859-9
+neep-iso8859-9-part-05x11-bold.bdf -jmk-neep-bold-r-semicondensed--11-100-75-75-c-50-iso8859-9
+neep-iso8859-9-part-06x13-bold.bdf -jmk-neep-bold-r-semicondensed--13-120-75-75-c-60-iso8859-9
+neep-iso8859-9-part-06x13.bdf -jmk-neep-medium-r-semicondensed--13-120-75-75-c-60-iso8859-9
+neep-iso8859-9-part-08x15-bold.bdf -jmk-neep-bold-r-normal--15-140-75-75-c-80-iso8859-9
+neep-iso8859-9-part-10x20-bold.bdf -jmk-neep-bold-r-normal--20-180-75-75-c-100-iso8859-9
+neep-iso8859-9-part-10x20.bdf -jmk-neep-medium-r-normal--20-180-75-75-c-100-iso8859-9
+neep-iso8859-9-part-12x24.bdf -jmk-neep-medium-r-normal--24-240-75-75-c-120-iso8859-9
+neep-post-ampersand-05x10.bdf -jmk-neep-medium-r-normal--10-80-75-75-c-50-us-ascii
+neep-post-ampersand-05x11-bold.bdf -jmk-neep-bold-r-semicondensed--11-100-75-75-c-50-us-ascii
+neep-post-ampersand-05x11.bdf -jmk-neep-medium-r-semicondensed--11-100-75-75-c-50-us-ascii
+neep-post-ampersand-08x15.bdf -jmk-neep-medium-r-normal--15-140-75-75-c-80-us-ascii
+neep-pre-ampersand-06x11-bold.bdf -jmk-neep-bold-r-normal--11-100-75-75-c-60-us-ascii
+neep-pre-ampersand-06x11.bdf -jmk-neep-medium-r-normal--11-100-75-75-c-60-us-ascii
+neep-pre-ampersand-06x13-bold.bdf -jmk-neep-bold-r-semicondensed--13-120-75-75-c-60-us-ascii
+neep-pre-ampersand-06x13.bdf -jmk-neep-medium-r-semicondensed--13-120-75-75-c-60-us-ascii
+neep-pre-ampersand-08x15-bold.bdf -jmk-neep-bold-r-normal--15-140-75-75-c-80-us-ascii
+neep-pre-ampersand-10x20-bold.bdf -jmk-neep-bold-r-normal--20-180-75-75-c-100-us-ascii
+neep-pre-ampersand-12x24-bold.bdf -jmk-neep-bold-r-normal--24-240-75-75-c-120-us-ascii
+neep-pre-ampersand-12x24.bdf -jmk-neep-medium-r-normal--24-240-75-75-c-120-us-ascii

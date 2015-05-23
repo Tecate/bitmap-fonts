@@ -1,0 +1,17 @@
+mplus_f10b		-mplus-fxd-bold-r-normal--10-100-75-75-c-60-iso8859-1
+mplus_f10r		-mplus-fxd-medium-r-normal--10-100-75-75-c-60-iso8859-1
+mplus_f12b		-mplus-fxd-bold-r-semicondensed--12-120-75-75-c-60-iso8859-1
+mplus_f12r		-mplus-fxd-medium-r-semicondensed--12-120-75-75-c-60-iso8859-1
+mplus_h10b		-mplus-hlv-bold-r-normal--10-100-75-75-p-60-iso8859-1
+mplus_h10r		-mplus-hlv-medium-r-normal--10-100-75-75-p-50-iso8859-1
+mplus_h12b		-mplus-hlv-bold-r-normal--12-120-75-75-p-70-iso8859-1
+mplus_h12r		-mplus-hlv-medium-r-normal--12-120-75-75-p-60-iso8859-1
+mplus_h12rw		-mplus-hlvw-medium-r-normal--12-120-75-75-p-60-iso8859-1
+mplus_q06r		-mplus-qub-medium-R-normal--6-60-75-75-P-40-iso8859-1
+mplus_s10b		-mplus-sys-bold-r-normal--10-100-75-75-p-70-iso8859-1
+mplus_s10r		-mplus-sys-medium-r-normal--10-100-75-75-p-60-iso8859-1
+-mplus-hlvw-bold-r-normal--10-100-75-75-p-60-iso8859-1			mplus_h10b
+-mplus-hlvw-medium-r-normal--10-1000-75-75-p-50-iso8859-1		mplus_h10r
+-mplus-hlvw-bold-r-normal--12-120-75-75-p-70-iso8859-1			mplus_h12b
+-mplus-fxd-bold-r-semicondensed--13-120-75-75-c-60-iso8859-1		mplus_f12b
+-mplus-fxd-medium-r-semicondensed--13-120-75-75-c-60-iso8859-1		mplus_f12r

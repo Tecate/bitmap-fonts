@@ -1,0 +1,17 @@
+16
+10x20.bdf -dylex-terminal-medium-r-normal--20-200-75-75-c-100-iso10646-1
+10x20B.bdf -dylex-terminal-bold-r-normal--20-200-75-75-c-100-iso10646-1
+10x20BO.bdf -dylex-terminal-bold-o-normal--20-200-75-75-c-100-iso10646-1
+10x20O.bdf -dylex-terminal-medium-o-normal--20-200-75-75-c-100-iso10646-1
+14x14.bdf -dylex-crawl-medium-r-normal--14-140-75-75-c-140-iso10646-1
+14x14B.bdf -dylex-crawl-bold-r-normal--14-140-75-75-c-140-iso10646-1
+14x14BO.bdf -dylex-crawl-bold-o-normal--14-140-75-75-c-140-iso10646-1
+14x14O.bdf -dylex-crawl-medium-o-normal--14-140-75-75-c-140-iso10646-1
+6x10.bdf -dylex-terminal-medium-r-normal--10-100-75-75-c-60-iso10646-1
+6x10B.bdf -dylex-terminal-bold-r-normal--10-100-75-75-c-60-iso10646-1
+6x10BO.bdf -dylex-terminal-bold-o-normal--10-100-75-75-c-60-iso10646-1
+6x10O.bdf -dylex-terminal-medium-o-normal--10-100-75-75-c-60-iso10646-1
+7x13.bdf -dylex-terminal-medium-r-normal--13-120-75-75-c-70-iso10646-1
+7x13B.bdf -dylex-terminal-bold-r-normal--13-120-75-75-c-70-iso10646-1
+7x13BO.bdf -dylex-terminal-bold-o-normal--13-120-75-75-c-70-iso10646-1
+7x13O.bdf -dylex-terminal-medium-o-normal--13-120-75-75-c-70-iso10646-1
