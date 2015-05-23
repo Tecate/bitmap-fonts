@@ -97,9 +97,9 @@ fc-cache -fv
 
 [Henning Koch, Triskweline](http://www.netalive.org/tinkering/triskweline/)
 
-[Ideasman42, Programming Fonts](http://wiki.blender.org/index.php/User:Ideasman42/ProgrammingFonts#t$
+[Ideasman42, Programming Fonts](http://wiki.blender.org/index.php/User:Ideasman42/ProgrammingFonts#triskweline)
 
-[Uwe Waldmann, UW ttyp0](http://people.mpi-inf.mpg.de/~uwe/misc/uw$
+[Uwe Waldmann, UW ttyp0](http://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/)
 
 [holomorph, xbmicons](https://github.com/holomorph/xbmicons)
 
