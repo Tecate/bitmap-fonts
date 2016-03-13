@@ -107,6 +107,8 @@ fc-cache -fv
 
 [rtrn, plan9fonts](https://github.com/rtrn/plan9fonts)
 
+[Christian Neukirchen, sq](https://github.com/chneukirchen/sq)
+
 ## Screenshots
 
 *	**bitbuntu**
