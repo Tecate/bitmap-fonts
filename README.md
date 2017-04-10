@@ -273,7 +273,8 @@ fc-cache -fv
 
 *	**tamzen**
 
-	![tamzen](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/tamzen-13.png)
+	![tamzen](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/tamzen-powerline-8x15.png)
+	![tamzen](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/tamzen-powerline-8x15b.png)
 
 *	**terminus**
 
