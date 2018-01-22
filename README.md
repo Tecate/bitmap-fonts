@@ -7,7 +7,7 @@ the font, or take a look at the creators website listed below.
 ## Installation:
 ```
 cd Desktop
-git clone https://Tecate/bitmap-fonts
+git clone https://www.github.com/Tecate/bitmap-fonts
 cd bitmap-fonts
 cd bitmap
 sudo cp -avr bitmap/ /usr/share/fonts
