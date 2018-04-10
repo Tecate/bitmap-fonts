@@ -156,10 +156,8 @@ fc-cache -fv
 *	**envypn**
 
 	![envypn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/envypn-13.png)
-
-  ![envypn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/envypn-powerline-13.png)
-
-  ![envypn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/envypn-powerline-15.png)
+  ![envypn](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/envypn-powerline-13.png)
+  ![envypn](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/envypn-powerline-15.png)
 
 *	**erusfont**
 
