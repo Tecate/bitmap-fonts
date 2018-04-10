@@ -10,9 +10,13 @@ Let me know if there are any fonts you want included in this repo. Any bdf/pcf f
 
 ## Installation:
 ```
+cd Desktop
+git clone https://www.github.com/Tecate/bitmap-fonts
+cd bitmap-fonts
+cd bitmap
+fc-cache -fv
 sudo cp -avr bitmap/ /usr/share/fonts
 xset fp+ /usr/share/fonts/bitmap
-fc-cache -fv
 ```
 ## Included:
 [Oliwier Ptak, artwiz-aleczapka](http://artwizaleczapka.sourceforge.net/)
