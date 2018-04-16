@@ -4,6 +4,17 @@ These fonts were not created by me, I simply collected them. Some of these fonts
 If something doesn't work check the archives file and see if there is a readme included with 
 the font, or take a look at the creators website listed below.
 
+## Bitmap is disabled by default on Kali, Ubuntu, Linux Mint, and more.
+To fix this enter the following commands:
+```
+cd /etc/fonts/conf.d/
+sudo rm /etc/fonts/conf.d/10*  
+sudo rm -rf 70-no-bitmaps.conf 
+sudo ln -s ../conf.avail/70-yes-bitmaps.conf .
+sudo dpkg-reconfigure fontconfig
+```
+
+
 ## Installation:
 ```
 cd Desktop
