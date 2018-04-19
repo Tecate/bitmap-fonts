@@ -17,10 +17,6 @@ sudo dpkg-reconfigure fontconfig
 
 ## Installation:
 ```
-cd Desktop
-git clone https://www.github.com/Tecate/bitmap-fonts
-cd bitmap-fonts
-cd bitmap
 fc-cache -fv
 sudo cp -avr bitmap/ /usr/share/fonts
 xset fp+ /usr/share/fonts/bitmap
