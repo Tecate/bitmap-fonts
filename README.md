@@ -4,7 +4,8 @@ These fonts were not created by me, I simply collected them. Some of these fonts
 If something doesn't work check the archives file and see if there is a readme included with 
 the font, or take a look at the creators website listed below.
 
-## Bitmap is disabled by default on Kali, Ubuntu, Linux Mint, and more.
+
+# Bitmap is disabled by default on Kali, Ubuntu, Linux Mint, and more.
 To fix this enter the following commands:
 ```
 cd /etc/fonts/conf.d/
@@ -13,6 +14,11 @@ sudo rm -rf 70-no-bitmaps.conf
 sudo ln -s ../conf.avail/70-yes-bitmaps.conf .
 sudo dpkg-reconfigure fontconfig
 ```
+
+=======
+This repo is an attempt to catalog all existing bdf/pcf fonts.
+
+Let me know if there are any fonts you want included in this repo. Any bdf/pcf fonts will be accepted.
 
 
 ## Installation:
@@ -39,6 +45,8 @@ fc-cache -fv
 [dylex, dylex-fonts](https://github.com/dylex/fonts)
 
 [Ypnose, envypn](https://aur.archlinux.org/packages/envypn-font/)
+
+[TheReturningVoid, envypn-powerline](https://github.com/TheReturningVoid/envypn-powerline) (replaces envypn)
 
 [?, erusfont](https://aur.archlinux.org/packages/erusfont/)
 
@@ -161,6 +169,8 @@ fc-cache -fv
 *	**envypn**
 
 	![envypn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/envypn-13.png)
+  ![envypn](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/envypn-powerline-13.png)
+  ![envypn](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/envypn-powerline-15.png)
 
 *	**erusfont**
 
