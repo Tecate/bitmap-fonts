@@ -132,6 +132,8 @@ fc-cache -fv
 
 [DaisukeAramaki, dweep](https://github.com/DaisukeAramaki/Dotfiles/tree/master/Dweep)
 
+[MarinHoc, cherry](https://github.com/MarinHoc/cherry)
+
 ## Screenshots
 
 *	**bitbuntu**
@@ -153,6 +155,12 @@ fc-cache -fv
 *	**boxxy**
 
 	![boxxy](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/boxxy-14.png)
+
+*	**cherry**
+
+	![cherry](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/cherry-10.png)
+	![cherry](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/cherry-11.png)
+	![cherry](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/cherry-13.png)
 
 *	**creep**
 
