@@ -134,6 +134,8 @@ fc-cache -fv
 
 [MarinHoc, cherry](https://github.com/MarinHoc/cherry)
 
+[NerdyPepper, Scientifica](https://github.com/NerdyPepper/scientifica)
+
 ## Screenshots
 
 *	**bitbuntu**
@@ -280,6 +282,11 @@ fc-cache -fv
 *	**raize**
 
 	![raize](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/raize-13.png)
+
+*	**scientifica**
+
+	![scientifica](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/scientifica-1.png)
+	![scientifica](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/scientifica-2.png)
 
 *	**sgi-haeberli**
 
