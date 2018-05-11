@@ -128,6 +128,8 @@ fc-cache -fv
 
 [Christian Neukirchen, sq](https://github.com/chneukirchen/sq)
 
+[Viznut, unscii](http://pelulamu.net/unscii/)
+
 ## Screenshots
 
 *	**bitbuntu**
@@ -320,4 +322,14 @@ fc-cache -fv
 *	**uushi**
 
 	![uushi](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/uushi-11.png)
+
+*	**unscii**
+
+	![unscii 16](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-16.png)
+	![unscii 8](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8.png)
+	![unscii 8 tall](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-tall.png)
+	![unscii 8 thin](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-thin.png)
+	![unscii 8 alt](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-alt.png)
+	![unscii 8 mcr](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-mcr.png)
+	![unscii 8 fantasy](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-fantasy.png)
 
