@@ -178,7 +178,7 @@ fc-cache -fv
 
 *	**dweep**
 
-	![dweep](ttps://github.com/Tecate/bitmap-fonts/raw/master/screenshots/dweep.jpg)
+	![dweep](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/dweep.jpg)
 
 
 *	**dylex**
