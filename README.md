@@ -198,8 +198,7 @@ sudo dpkg-reconfigure fontconfig
 	![raize](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/raize-13.png)
 
 **scientifica**\
-	![scientifica](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/scientifica-1.png)\
-	![scientifica](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/scientifica-2.png)
+	![scientifica](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/scientifica.png)
 
 **sgi-haeberli**\
 	![sgi-haeberli](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/sgi-haeberli-12.png)
