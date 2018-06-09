@@ -94,11 +94,11 @@ sudo dpkg-reconfigure fontconfig
 **bitbuntufull**\
 	![bitbuntufull](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/bitbuntufull-10.png)
 
-**bitcora**\
-	![bitcora](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/bitcora-11.png)
+**bitocra**\
+	![bitocra](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/bitcora-11.png)
 
-**bitcora**\
-	![bitcora](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/bitcora-13.png)
+**bitocra**\
+	![bitocra](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/bitcora-13.png)
 
 **boxxy**\
 	![boxxy](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/boxxy-14.png)
