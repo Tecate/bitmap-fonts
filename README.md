@@ -1,4 +1,4 @@
-# bitmap-fonts
+﻿# bitmap-fonts
 A collection of monospaced bitmap fonts for X11, good for terminal use.
 These fonts were not created by me, the authors are listed below.
 Some of these fonts may be out of date.
@@ -68,6 +68,7 @@ sudo dpkg-reconfigure fontconfig
 [Scientifica by NerdyPepper](https://github.com/NerdyPepper/scientifica)\
 [siji by gstk](https://github.com/gstk/siji)\
 [Speedy by Walter Reel](http://www.proggyfonts.net/download/)\
+[spleen by fcambus](https://github.com/fcambus/spleen)
 [stlarch-font by stlarch](http://sourceforge.net/projects/stlarchfont/)\
 [sq by Christian Neukirchen](https://github.com/chneukirchen/sq)\
 [tamsyn by Scott Fial](http://www.fial.com/~scott/tamsyn-font/)\
@@ -214,6 +215,9 @@ sudo dpkg-reconfigure fontconfig
 
 **speedy**\
 	![speedy](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/speedy-12.png)
+
+**spleen**\
+	![spleen](https://camo.githubusercontent.com/62672d173e425022dc98c0ac22e707eec04adcd3/68747470733a2f2f7777772e63616d6275732e6e65742f66696c65732f73706c65656e2f73706c65656e2d387831362e706e67)
 
 **tamsyn**\
 	![tamsyn](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/tamsyn-13.png)
