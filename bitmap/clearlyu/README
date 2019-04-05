@@ -1,0 +1,235 @@
+#
+# Id: README,v 1.11 2000/12/06 22:13:11 mleisher Exp $
+#
+# Copyright 2000 Computing Research Lab, New Mexico State University
+#
+# Permission is hereby granted, free of charge, to any person obtaining a
+# copy of this software and associated documentation files (the "Software"),
+# to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense,
+# and/or sell copies of the Software, and to permit persons to whom the
+# Software is furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+# THE COMPUTING RESEARCH LAB OR NEW MEXICO STATE UNIVERSITY BE LIABLE FOR ANY
+# CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+# OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+# THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#
+
+Version: 1.8
+6 December 2000
+
+This set of fonts provides a 12pt, 100dpi proportional font with many of
+the glyphs needed for Unicode text.  I call the typeface "ClearlyU" and
+it was influenced by Donald Knuth's Computer Modern.
+
+The fonts together contain 7564 glyphs at the moment.
+
+Information about this font and samples, are located at:
+
+  http://crl.nmsu.edu/~mleisher/cu.html
+
+ACKNOWLEDGEMENTS
+================
+Thanks to Otto Stolz <Otto.Stolz@uni-konstanz.de> for finding spelling errors
+in one of the Greek samples.
+
+AUTHOR
+======
+Mark Leisher <mleisher@crl.nmsu.edu>
+
+CHANGES
+=======
+
+CHANGES FROM 1.7
+---------------
+
+  o  Adjusted the shapes of U+01A2 and U+01A3 based on:
+       http://www.indigo.ie/egt/standards/iso10646/pdf/gha.pdf
+
+  o  Added some more glyphs for Unicode 3.0.
+
+  o  Some minor lightening of a few glyphs.
+
+  o  Redrew the Hebrew glyphs to be more consistent with the other scripts.
+
+  o  Removed a combination from the PUA font that is in Unicode 3.0.
+
+  o  Made the digits in the Arabic glyphs heavier to reflect more common
+     practice.  The Urdu digit glyphs in the alternate font updated as well.
+
+  o  Modified the Arabic block glyphs to be smaller and less silly looking.
+
+  o  Added Devanagari glyphs including those needed to actually present text.
+
+  o  Adjusted the advance widths of the Cyrillic capital letters to make
+     presentation more consistent.
+
+  o  Adjusted the width of the Lao vowels, I, II, Y, and YY.
+
+  o  Renamed all the glyphs to "uniXXXX".
+
+  o  Added a Macedonian/Serbian alternate for U+0431 to cu-alt12.
+
+  o  Added the Romanian alternates using virgule instead of cedilla for
+     U+015E, U+015F, U+0162, and U+0163.
+
+  o  Added the Persian alternate glyph for the decimal separator at U+066B to
+     the alternate font.
+
+  o  Fixed up some of the Greek glyphs so the small iota follows the capital
+     letters.
+
+  o  Improved the Greek drachma sign.
+
+  o  Adjusted the Cyrillic block to match Unicode 3.0 and moved the extra
+     characters to the PUA font.
+
+  o  Initial addition of some basic Hangul glyphs.
+
+CHANGES FROM 1.6
+----------------
+
+  o  Fixed some more spacing problems with Greek glyphs.
+
+  o  Fixed some problems with two alternate Greek glyphs.
+
+  o  Fixed a spacing problem with an Armenian glyph.
+
+  o  Fixed advance width problems with the Klingon.
+
+  o  Added an alternate "No." glyph at 0x2116.
+
+  o  Changed the spacing on the basic Latin upper-case letters to make them
+     look better in natural text.
+
+  o  Lowered the dot above the the lower case "i" and "j" letters to make them
+     blend in more with the surrounding letters.
+
+  o  Added some Greek block glyphs.
+
+  o  Replaced the small letter d-caron (U+010F) with the preferred typesetting
+     form and moved the caron form to the alternate page.
+
+  o  Replaced the small letter l-caron (U+013E) with the preferred typesetting
+     form and moved the caron form to the alternate page.
+
+  o  Added U+01F6 through U+01F9, U+021C and U+021D, U+0222 through U+0225,
+     U+02A9 through U+02AD, U+02EA through U+02EE, U+0346 through U+034E,
+     U+0362, U+2139 and U+213A, U+2183, U+21EB through U+21F3, U+2425 and
+     U+2426, U+25F0 through U+25F7,
+
+     for Unicode 3.0 support.
+
+  o  Lightened the weight of the "w" shape a little.
+
+  o  Added a couple glyphs to the Private Use Area font for Navajo (U+E12E and
+     U+E12F).
+
+  o  Added glyphs at U+FFFE for use as an X11 DEFAULT_CHAR entry.
+
+  o  Added the _XFREE86_GLYPH_RANGES properties.
+
+  o  Updated the copyright notice year.
+
+CHANGES FROM 1.5
+----------------
+
+  o  Fixed up the Coptic SMALL LETTER FEI shape.
+
+  o  Changed the default shape of the Greek KOPPA to the O shape and added a
+     lower case KOPPA in the unassigned slot after the KOPPA.
+
+  o  Added some glyphs to the Private Use Area font: dotless lower j, upper
+     and lower g with tilde, upper j with caron, final Hebrew kaf with
+     qamats, upper and lower Xucuri letter he, alternate forms of the Greek
+     koppa.
+
+  o  Some minor improvements made to a few Xucuri glyphs.
+
+  o  Spacing adjustments to Armenian, Georgian, Lao, and Thai.
+
+  o  Added some more Cyrillic and Latin glyphs.
+
+  o  Renamed all the glyphs to 4-digit hexadecimal codes of the form 0xUUUU.
+
+  o  Added alternate Greek glyphs that use the curved PERISPOMENI instead of
+     the one that looks like a tilde.
+
+CHANGES FROM 1.4
+----------------
+
+  o  Fixed the tone marks in the Greek block.
+
+  o  Adjusted the spacing on the lower case Greek letters.
+
+  o  Added the missing micro sign at U+00B5.
+
+  o  Adjusted spacing on more Latin, Greek, and Cyrillic letters.
+
+  o  Added a different Franc symbol to the alternate font.
+
+  o  Added the Macedonian I with grave, U+040D, U+045D.
+
+  o  Added Cyrillic letter IE with grave at U+0400, U+0450.
+
+  o  Added the Armenian hyphen at U+058A.
+
+  o  Fixed spacings on glyphs shaped like the capital C and R, and lightened
+     the capital K a bit.
+
+  o  Lightened the "small k shape" found in Cyrillic and Greek.
+
+  o  Adjusted some spacing problems with Greek alphas.
+
+  o  Fixed Cyrillic glyphs UPRIGHT U and UPRIGHT U WITH BAR.
+
+  o  Adjusted the Cyrillic letters U WITH DOUBLE ACUTE.
+
+CHANGES FROM 1.3
+----------------
+
+  o  Lightened the lower case "k" and "t" shapes to be more consistent with
+     the weight of the other glyphs.
+
+  o  Adjusted the spacing of the letter "x" yet again.
+
+  o  Adjusted spacing of the letter "y".
+
+  o  Changed the Greek capital "Y" shape to something more modern, in the
+     diatonic block as well.
+
+  o  Adjusted many spacings.
+
+  o  Adjusted spacing on Georgian Xutsuri lower case alternate glyphs.
+
+  o  Added consistent CAP_HEIGHT and X_HEIGHT to all fonts.
+
+CHANGES
+-------
+20 October 1998 - Cleaned up some more spacing problems and added the floor
+                  and ceiling glyphs.
+
+15 October 1998 - Cleaned up some spacing problems with digits.
+                  Added Klingon to the PUA font.
+
+02 October 1998 - Changed U+0123 to the preferred Latvian form.
+                  Cleaned up some of the Arabic digits.
+                  Made the alternate Georgian font into a general alternate
+                  glyph font.  Added some alternate Arabic glyphs for Urdu
+                  digits and letters.  Added the g-cedilla as an alternate
+                  glyph.
+
+03 September 1998 - Fixed some math character metrics.
+
+09 September 1998 - Finished the Arabic blocks.
+
+12 July 1998 - Added proposed Cyrillic glyphs for Kildin Sámi.
+
+12 July 1998 - Borrowed the Ethiopic glyphs from ethiomx12-uni.bdf.
