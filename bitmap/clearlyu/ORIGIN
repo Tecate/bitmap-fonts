@@ -1,0 +1,14 @@
+ClearlyU bitmap font by Mark Leisher
+------------------------------------
+
+Please see the README for acknowledgements, copyright and licence terms.
+
+The original location in the README is no longer accessible. The page has been mirrored at 
+https://web.archive.org/web/20090223214014/http://crl.nmsu.edu/~mleisher/cu.html
+Unfortunately, the Internet Archive does not have a copy of the .tgz and .zip files linked there.
+
+The files in this directory have instead been extracted from the XFree86 4.0.2 source at:
+ftp://ftp.xfree86.org/pub/XFree86/4.0.2/source/X402src-1.tgz
+They are located in the tarball at /xc/extras/fonts/ClearlyU/
+
+2019-04-19

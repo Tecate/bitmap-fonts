@@ -37,6 +37,7 @@ sudo dpkg-reconfigure fontconfig
 [CG Mono by Christian Gruen](http://www.proggyfonts.net/download/)\
 [creep by romeovs](https://github.com/romeovs/creep)\
 [ctrld-font by bjin](https://github.com/bjin/ctrld-font)\
+[ClearlyU by Mark Leisher](https://web.archive.org/web/20090223214014/http://crl.nmsu.edu/~mleisher/cu.html)\
 [Dina by Jørgen Ibsen](http://www.donationcoder.com/Software/Jibz/Dina/index.html)\
 [dweep by DaisukeAramaki](https://github.com/DaisukeAramaki/Dotfiles/tree/master/Dweep)\
 [dylex-fonts by dylex](https://github.com/dylex/fonts)\
