@@ -15,6 +15,9 @@ Please submit a pull request if there are any bdf/pcf fonts that you want added.
 git clone https://github.com/Tecate/bitmap-fonts.git
 cd bitmap-fonts
 sudo cp -avr bitmap/ /usr/share/fonts
+cd /usr/share/fonts/bitmap/
+sudo mkfontdir
+sudo mkfontscale
 xset fp+ /usr/share/fonts/bitmap
 fc-cache -fv
 ```
