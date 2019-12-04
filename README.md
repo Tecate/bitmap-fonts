@@ -87,7 +87,7 @@ sudo dpkg-reconfigure fontconfig
 [UW ttyp0 by Uwe Waldmann](http://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/)\
 [xbmicons by holomorph](https://github.com/holomorph/xbmicons)\
 [zevv-peep by Zevv](http://zevv.nl/play/code/zevv-peep/)\
-[sq by leahneukirchen](https://github.com/leahneukirchen/sq)\
+[sq by leahneukirchen](https://github.com/leahneukirchen/sq/)\
 
 
 ## Screenshots
