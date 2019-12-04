@@ -87,6 +87,8 @@ sudo dpkg-reconfigure fontconfig
 [UW ttyp0 by Uwe Waldmann](http://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/)\
 [xbmicons by holomorph](https://github.com/holomorph/xbmicons)\
 [zevv-peep by Zevv](http://zevv.nl/play/code/zevv-peep/)\
+[sq by leahneukirchen](https://github.com/leahneukirchen/sq)\
+
 
 ## Screenshots
 
@@ -256,3 +258,7 @@ sudo dpkg-reconfigure fontconfig
 	![unscii 8 alt](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-alt.png)\
 	![unscii 8 mcr](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-mcr.png)\
 	![unscii 8 fantasy](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/unscii-8-fantasy.png)
+
+**sq**\
+	![sq 15](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/sq.png)\
+	![sqb 15](https://github.com/Tecate/bitmap-fonts/raw/master/screenshots/sqb.png)
