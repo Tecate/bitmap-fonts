@@ -49,7 +49,7 @@ sudo dpkg-reconfigure fontconfig
 [gomme by tonkazoid](https://github.com/tonkazoid/gomme)\
 [jmk-fonts by Jim Knobles](http://www.jmknoble.net/fonts/)\
 [kakwafont by kakwa](http://carpenti.iiens.net/kakwafont/)\
-[knxt by bytensky](https://github.com/bytensky/knxt)\
+[knxt by bytensky](https://gitlab.com/bytensky/knxt)\
 [kourier by Semware](http://www.semware.com/html/tseprofilesr.php#FONTS)\
 [leggie by wiktor-b](https://github.com/wiktor-b/leggie)\
 [Lemon by phallus](https://github.com/phallus/fonts)\
