@@ -1,4 +1,4 @@
-﻿# bitmap-fonts
+# bitmap-fonts
 A collection of monospaced bitmap fonts for X11, good for terminal use.
 These fonts were not created by me, the authors are listed below.
 Some of these fonts may be out of date.
@@ -32,43 +32,43 @@ sudo dpkg-reconfigure fontconfig
 ## Included:
 [artwiz-aleczapka by Oliwier Ptak](http://artwizaleczapka.sourceforge.net/)\
 [bitocra by ninjaaron](https://github.com/ninjaaron/bitocra)\
-[boxxy by caffeinebasedlifeform](https://aur.archlinux.org/packages/bdf-boxxy-font/)\
+[boxxy by caffeinebasedlifeform](https://aur.archlinux.org/packages/bdf-boxxy/)\
 [cherry by MarinHoc](https://github.com/MarinHoc/cherry)\
-[CG Mono by Christian Gruen](http://www.proggyfonts.net/download/)\
+[CG Mono by Christian Gruen](https://github.com/bluescan/proggyfonts/tree/master/Contributed)\
 [creep by romeovs](https://github.com/romeovs/creep)\
 [ctrld-font by bjin](https://github.com/bjin/ctrld-font)\
 [ClearlyU by Mark Leisher](https://web.archive.org/web/20090223214014/http://crl.nmsu.edu/~mleisher/cu.html)\
 [Dina by Jørgen Ibsen](http://www.donationcoder.com/Software/Jibz/Dina/index.html)\
 [dweep by DaisukeAramaki](https://github.com/DaisukeAramaki/Dotfiles/tree/master/Dweep)\
 [dylex-fonts by dylex](https://github.com/dylex/fonts)\
-[envypn by Ypnose](https://aur.archlinux.org/packages/envypn-font/)\
+[envypn by Ypnose](https://ywstd.fr/p/pj/#envypn)\
 [envypn-powerline by TheReturningVoid](https://github.com/TheReturningVoid/envypn-powerline) (replaces envypn)\
 [erusfont by unknown](https://aur.archlinux.org/packages/erusfont/)\
 [VGA Fonts for X by Giles Orr](http://www.gilesorr.com/bashprompt/xfonts/)\
 [gohufont by Hugo Chargois](http://font.gohu.org/)\
-[gomme by tonkazoid](https://github.com/tonkazoid/gomme)\
-[jmk-fonts by Jim Knobles](http://www.jmknoble.net/fonts/)\
+[gomme by tonkazoid](https://web.archive.org/web/20140908015419/https://github.com/tonkazoid/gomme)\
+[jmk-fonts by Jim Knobles](http://nikolas.us.to/jmkfonts/)\
 [kakwafont by kakwa](http://carpenti.iiens.net/kakwafont/)\
-[knxt by bytensky](https://github.com/bytensky/knxt)\
+[knxt by bytensky](https://github.com/Tecate/bitmap-fonts/tree/master/bitmap/knxt)\
 [kourier by Semware](http://www.semware.com/html/tseprofilesr.php#FONTS)\
-[leggie by wiktor-b](https://github.com/wiktor-b/leggie)\
+[leggie by wiktor-b](https://memleek.org/leggie/)\
 [Lemon by phallus](https://github.com/phallus/fonts)\
-[lode by hishamhm](https://github.com/hishamhm/lode-fonts)\
+[Lode by Hisham Muhammad](https://github.com/hishamhm/lode-fonts)\
 [lokaltog-fonts by Lokaltog](https://github.com/Lokaltog/lokaltog-fonts)\
 [Haxor by metan-ucw](https://github.com/metan-ucw/fonts)\
 [MonteCarlo by bok](http://www.bok.net/MonteCarlo/)\
 [M+ fonts by unknown](http://mplus-fonts.osdn.jp/mplus-bitmap-fonts/index.html)\
 [ohsnap by stlarch](http://sourceforge.net/projects/osnapfont/)\
-[Opti by Nicolas Botti](http://www.proggyfonts.net/download/)\
+[Opti by Nicolas Botti](https://github.com/bluescan/proggyfonts/tree/master/Contributed)\
 [Orp-Font by Micah Elliott](https://github.com/MicahElliott/Orp-Font)\
-[Pixel Carnage by The Wolf](http://www.proggyfonts.net/download/)\
+[Pixel Carnage by The Wolf](https://github.com/bluescan/proggyfonts/tree/master/Contributed)\
 [profont by Tobias Jung](http://tobiasjung.name/profont/)\
-[proggy by unknown](http://www.proggyfonts.net/download/)\
-[progsole by Glenn Schemenauer](http://www.proggyfonts.net/download/)\
-[raize by Raize Software](http://www.raize.com/DevTools/Tools/RzFont.asp)\
-[Scientifica by NerdyPepper](https://github.com/NerdyPepper/scientifica)\
+[proggy by Tristan Grimmer](https://github.com/bluescan/proggyfonts)\
+[progsole by Glenn Schemenauer](https://github.com/bluescan/proggyfonts)\
+[raize by Raize Software](https://web.archive.org/web/20180720225206/http://raize.com/DevTools/Tools/RzFont.asp)\
+[scientifica by NerdyPepper](https://github.com/NerdyPepper/scientifica)\
 [siji by gstk](https://github.com/gstk/siji)\
-[Speedy by Walter Reel](http://www.proggyfonts.net/download/)\
+[Speedy by Walter Reel](https://github.com/bluescan/proggyfonts/tree/master/Contributed)\
 [spleen by fcambus](https://github.com/fcambus/spleen)
 [stlarch-font by stlarch](http://sourceforge.net/projects/stlarchfont/)\
 [sq by Christian Neukirchen](https://github.com/chneukirchen/sq)\
@@ -78,15 +78,15 @@ sudo dpkg-reconfigure fontconfig
 [terminusmod by stlarch](http://sourceforge.net/projects/terminusmod/)\
 [termsyn by stlarch](http://sourceforge.net/projects/termsyn/)\
 [tewi by lucy](https://github.com/lucy/tewi-font)\
-[tobi by Tobias Werner](http://www.proggyfonts.net/download/)\
+[tobi by Tobias Werner](https://web.archive.org/web/20210420185432/http://www.proggyfonts.net/download/)\
 [Triskweline by Henning Koch](http://www.netalive.org/tinkering/triskweline/)\
 [plan9fonts by rtrn](https://github.com/rtrn/plan9fonts)\
-[Programming Fonts by Ideasman42](http://wiki.blender.org/index.php/User:Ideasman42/ProgrammingFonts#triskweline)\
-[unscii by Viznut](http://pelulamu.net/unscii/)\
+[Programming Fonts by Ideasman42](https://archive.blender.org/wiki/index.php/User:Ideasman42/ProgrammingFonts/)\
+[unscii by Viznut](http://viznut.fi/unscii/)\
 [Uushi by phallus](https://github.com/phallus/fonts)\
 [UW ttyp0 by Uwe Waldmann](http://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/)\
 [xbmicons by holomorph](https://github.com/holomorph/xbmicons)\
-[zevv-peep by Zevv](http://zevv.nl/play/code/zevv-peep/)\
+[zevv-peep by Zevv](https://github.com/netyaroze/zevv-peep)\
 
 ## Screenshots
 
